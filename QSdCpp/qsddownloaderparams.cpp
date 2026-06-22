@@ -1,0 +1,2 @@
+#include "qsddownloaderparams.h"
+
